@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Wrocław, Poland, CET",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "THIS IS RPOOOODSOASOFDSOAFODSFODFOOD",
+    "This is R.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "You’ve managed to find your way into my working notes, which I’ve accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. I also post/experiment with visual trickery on my YouTube channel, ideas and theories that interest me. I use it to alleviate boredom and occasionally heighten my thought processes. I am a systematizer, and this is my pocket dimension. ",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
