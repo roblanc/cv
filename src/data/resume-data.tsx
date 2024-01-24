@@ -22,32 +22,38 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Bartosz Jarocki",
   initials: "BJ",
-  location: "Bucharest, Romania, EET",
-  locationLink: "https://www.google.com/maps/place/Bucharest",
+  location: "Wrocław, Poland, CET",
+  locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "This is R.",
   summary:
     "You’ve managed to find your way into my working notes, which I’ve accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. I also post/experiment with visual trickery on my YouTube channel, ideas and theories that interest me. I use it to alleviate boredom and occasionally heighten my thought processes. I am a systematizer, and this is my pocket dimension. ",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://rtheory.xyz",
+  personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "romicam2@gmail.com",
+    email: "bartosz.jarocki@hey.com",
+    tel: "+48530213401",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/roblanc",
+        url: "https://github.com/BartoszJarocki",
         icon: GitHubIcon,
       },
       {
+        name: "LinkedIn",
+        url: "https://www.linkedin.com/in/bjarocki/",
+        icon: LinkedInIcon,
+      },
+      {
         name: "X",
-        url: "https://x.com/rtheoryxzy",
+        url: "https://x.com/BartoszJarocki",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Faculty of Foreign Languages and Literatures (University of Bucharest",
+      school: "Wrocław University of Technology",
       degree: "Bachelor's Degree in Control systems engineering and Robotics",
       start: "2007",
       end: "2010",
