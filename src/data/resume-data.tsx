@@ -20,9 +20,9 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
+  name: "Ro.bert",
   initials: "RX",
-  location: "Wrocław, Poland, CET",
+  location: "Bucharest, Romania, CET",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "This is R.",
