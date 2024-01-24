@@ -29,9 +29,9 @@ export const RESUME_DATA = {
   summary:
     "You’ve managed to find your way into my working notes, which I’ve accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://rtheory.xyz",
   contact: {
-    email: "bartosz.jarocki@hey.com",
+    email: "romicam2@gmail.com",
     tel: "+48530213401",
     social: [
       {
