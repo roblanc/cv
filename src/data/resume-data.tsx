@@ -29,11 +29,6 @@ export const RESUME_DATA: ResumeData = {
         url: "https://www.linkedin.com/in/bjarocki/",
         icon: "linkedin",
       },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: "x",
-      },
     ],
   },
   education: [
